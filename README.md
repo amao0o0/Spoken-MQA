@@ -25,7 +25,7 @@ pip install -r latex2sympy2
 ```
 
 ### ▶️ Run Evaluations
-We provide a script for full dataset evaluation:
+We provide a script for full dataset evaluation. Copy the bash script `eval_spoken_mqa.sh` to `AudioBench/`
 
 ```
 bash eval_spoken_mqa.sh
